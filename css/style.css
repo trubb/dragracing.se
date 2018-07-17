@@ -3,10 +3,10 @@ body {
   padding-top: 75px;
 }
 
-#images .image-container {
+#header_img {
   margin-bottom: 1em;
 }
 
-.btn-primary {
+.btn-orange {
 	color: #f79239;
 }
