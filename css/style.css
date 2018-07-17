@@ -8,3 +8,9 @@ body {
   min-height: 1em;
   max-width: 100%;
 }
+
+$theme-colors: (
+  "primary": #F79239,
+  "secondary": #F79239,
+  "danger": #ff4136
+);
