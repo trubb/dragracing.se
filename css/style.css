@@ -1,5 +1,5 @@
 body {
-  padding-bottom: 75px;
+  padding-bottom: 25px;
 }
 
 #header_img {
@@ -17,9 +17,9 @@ div .btn {
 	margin-bottom: 5px;
 }
 
-$theme-colors: (
+/*$theme-colors: (
   "primary": #F79239,
   "secondary": #F79239,
   "danger": #ff4136
-);
+);*/
 
