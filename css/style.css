@@ -1,0 +1,12 @@
+body {
+  padding-bottom: 75px;
+  padding-top: 75px;
+}
+
+#images .image-container {
+  margin-bottom: 1em;
+}
+
+.btn-primary {
+	color: #f79239;
+}
