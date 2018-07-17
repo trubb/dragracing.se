@@ -5,8 +5,10 @@ body {
 
 #header_img {
   margin-bottom: 1em;
+  min-height: 1em;
+  max-width: 100%;
 }
 
-.btn-orange {
-	color: #f79239;
+.btn {
+	background-color: #f79239;
 }
