@@ -1,6 +1,5 @@
 body {
   padding-bottom: 75px;
-  padding-top: 75px;
 }
 
 #header_img {
@@ -9,8 +8,17 @@ body {
   max-width: 100%;
 }
 
+img {
+	margin-bottom: 15px;
+}
+
+div .btn {
+	background-color: #F79239;
+}
+
 $theme-colors: (
   "primary": #F79239,
   "secondary": #F79239,
   "danger": #ff4136
 );
+
