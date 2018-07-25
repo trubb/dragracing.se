@@ -1,0 +1,14 @@
+{
+	"short_name": "Dragracing.se",
+	"name": "Svensk Dragracing",
+	"background_color": "#fff",
+	"start_url": ".",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "/assets/img/favicon.png",
+			"sizes": "144x144",
+			"type": "image/png"
+		}
+	]
+}
